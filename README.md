@@ -4,10 +4,12 @@
 
 ---
 
-## 🚀 Live Working Prototype
+## 🚀 Live Working Prototype & Deployments
 
-The application is running locally at:
-**`http://localhost:3000/`**
+- **Local Prototype**: [`http://localhost:3000/`](http://localhost:3000/) *(Runs via `npm run dev`)*
+- **GitHub Pages Link**: [`https://saransh8888-code.github.io/Resumates/`](https://saransh8888-code.github.io/Resumates/)
+- **1-Click Vercel Deployment**: [Deploy to Vercel](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsaransh8888-code%2FResumates)
+- **1-Click Netlify Deployment**: [Deploy to Netlify](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2Fsaransh8888-code%2FResumates)
 
 ---
 
